@@ -2,18 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27012eae-3c31-49da-ab2e-1b9da06a8e4c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extLabExample-master/ReadingFile/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extLabExample-master/ReadingFile/ReadingFile.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extLabExample-master/ReadingFile/file.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extLabExample-master/ReadingFile/src/codingbat/CodingBatMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extLabExample-master/ReadingFile/src/codingbat/service/CodingBatInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extLabExample-master/ReadingFile/src/codingbat/service/Impl/CodingBatServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extLabExample-master/ReadingFile/src/codingbat/service/Impl/DemoService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extLabExample-master/ReadingFile/src/com/epam/file/MainReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extLabExample-master/ReadingFile/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ReadingFile/com/epam/file/MainReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ReadingFile/com/epam/file/MainReader.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,8 +21,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/extLabExample-master/ReadingFile/src/com/epam/file/MainReader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="43" column="52" selection-start-line="43" selection-start-column="52" selection-end-line="43" selection-end-column="52" />
+            <state relative-caret-position="731">
+              <caret line="43" column="8" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -85,11 +76,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/extLabExample-master/ReadingFile/src/exception/FoundFileException.java" />
-        <option value="$PROJECT_DIR$/extLabExample-master/ReadingFile/src/com/epam/file/MainReader.java" />
         <option value="$PROJECT_DIR$/extLabExample-master/ReadingFile/src/codingbat/service/CodingBatInterface.java" />
         <option value="$PROJECT_DIR$/extLabExample-master/ReadingFile/src/codingbat/service/Impl/CodingBatServiceImpl.java" />
         <option value="$PROJECT_DIR$/extLabExample-master/ReadingFile/src/codingbat/CodingBatMain.java" />
         <option value="$PROJECT_DIR$/extLabExample-master/ReadingFile/src/codingbat/service/Impl/DemoService.java" />
+        <option value="$PROJECT_DIR$/extLabExample-master/ReadingFile/src/com/epam/file/MainReader.java" />
       </list>
     </option>
   </component>
@@ -113,23 +104,6 @@
               <item name="Epam_Exceptions" type="b2602c69:ProjectViewProjectNode" />
               <item name="ReadingFile" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Epam_Exceptions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ReadingFile" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Epam_Exceptions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ReadingFile" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="codingbat" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Epam_Exceptions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ReadingFile" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="file" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -148,6 +122,9 @@
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="codingbat" />
       <recent name="codingbat.service" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Repository\Epam_Exceptions\" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -186,7 +163,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25321338" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -197,7 +173,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32974428" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32974428" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -217,11 +193,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/extLabExample-master/ReadingFile/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1173" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/extLabExample-master/ReadingFile/file.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -270,10 +241,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/extLabExample-master/ReadingFile/src/com/epam/file/MainReader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="43" column="52" selection-start-line="43" selection-start-column="52" selection-end-line="43" selection-end-column="52" />
+        <state relative-caret-position="731">
+          <caret line="43" column="8" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
